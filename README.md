@@ -14,7 +14,12 @@ com um formulário de contato.
 - Estilização de formulários
 - Organização de código CSS
 
-## Como visualizar o projeto
-Basta baixar os arquivos e abrir o arquivo `index.html`
+## 🔗 Como visualizar o projeto
+
+Você pode acessar o projeto online pelo GitHub Pages:  
+https://emeliellen.github.io/pets-adocao/
+
+Ou, se preferir, basta baixar os arquivos e abrir o arquivo `index.html`
 em qualquer navegador.
+
 
